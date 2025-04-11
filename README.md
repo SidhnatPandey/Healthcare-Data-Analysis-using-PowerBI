@@ -104,7 +104,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 📧 Email: sidhantpandeynp6@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/sidhant-pandey01)
+🌐 LinkedIn: [linkedin.com/in/Sidhant](https://www.linkedin.com/in/sidhant-pandey01)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
